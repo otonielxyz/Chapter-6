@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// Assuming these are already defined somewhere
 char inputChar(string prompt, string options);
 void mainMenu();
 int inputInteger(string prompt);
