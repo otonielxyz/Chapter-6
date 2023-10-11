@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\CMPR131\CMPR131 - Chapter 6\MyBagTemplate.h(37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  CMPR131 - Chapter 6.vcxproj -> C:\CMPR131\CMPR131 - Chapter 6\x64\Debug\CMPR131 - Chapter 6.exe
